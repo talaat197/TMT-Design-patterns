@@ -6,7 +6,7 @@
 package com.mycompanylare.bridge;
 
 /**
- *
+ *This Concrete Abstraction represents a simple page.
  * @author tmt
  */
 public class SimplePage extends Page{

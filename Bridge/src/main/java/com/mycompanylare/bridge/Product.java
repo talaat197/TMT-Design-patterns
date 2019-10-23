@@ -6,7 +6,7 @@
 package com.mycompanylare.bridge;
 
 /**
- *
+ * helper class for products
  * @author tmt
  */
 public class Product {

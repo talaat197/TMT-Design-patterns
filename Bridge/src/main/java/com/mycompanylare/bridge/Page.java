@@ -1,7 +1,9 @@
 /*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
+In this example, the Page hierarchy acts as the Abstraction, 
+and the Renderer hierarchy acts as the Implementation. 
+Objects of the Page class can assemble web pages of a particular kind 
+using basic elements provided by a Renderer object attached to that page. Since both of the class hierarchies are separate, 
+you can add a new Renderer class without changing any of the Page classes and vice versa.
  */
 package com.mycompanylare.bridge;
 

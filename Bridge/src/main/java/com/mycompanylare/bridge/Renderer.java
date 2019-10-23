@@ -10,6 +10,7 @@ package com.mycompanylare.bridge;
  * @author tmt
  */
 public interface Renderer {
+    
     public String renderTitle(String title);
     
     public String renderTextBlock(String textBlock);
